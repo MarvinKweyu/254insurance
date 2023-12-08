@@ -1,0 +1,28 @@
+{
+  "name": "martex-nuxtjs-app",
+  "author": "alithemes",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "autoprefixer": "^10.4.14",
+    "nuxt": "^3.6.2",
+    "postcss": "^8.4.25"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^3.0.1",
+    "animate.css": "^4.1.1",
+    "i": "^0.3.7",
+    "npm": "^9.8.1",
+    "nuxt-swiper": "^1.2.0",
+    "sass": "^1.63.6",
+    "wow.js": "^1.2.2"
+  }
+}
