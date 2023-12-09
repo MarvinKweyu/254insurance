@@ -12,16 +12,19 @@
                         <!-- Title -->
                         <h4 class="s-26 w-700">Achieve success through data-driven decisions</h4>
                         <!-- Text -->
-                        <p class="p-md color--grey">Get started with Martex for free. It's fast and very easy! No credit card needed</p>
+                        <p class="p-md color--grey">Get started with 254Insurance for free. It's fast and very easy! No
+                            credit card needed</p>
                         <!-- Form -->
                         <form name="requestForm" class="row request-form">
                             <!-- Form Input -->
                             <div class="col-md-12">
-                                <input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" autocomplete="off" required />
+                                <input type="text" name="name" class="form-control name" placeholder="Enter Your Name*"
+                                    autocomplete="off" required />
                             </div>
                             <!-- Form Input -->
                             <div class="col-md-12">
-                                <input type="email" name="email" class="form-control email" placeholder="Enter Your Email*" autocomplete="off" required />
+                                <input type="email" name="email" class="form-control email" placeholder="Enter Your Email*"
+                                    autocomplete="off" required />
                             </div>
                             <!-- Form Button -->
                             <div class="col-md-12 form-btn">
@@ -42,7 +45,10 @@
         <!-- End container -->
         <!-- WAVE SHAPE BOTTOM -->
         <div class="wave-shape-bottom">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 265"><path fill-opacity="1" d="M0,256L120,256C240,256,480,256,720,240C960,224,1200,192,1320,176L1440,160L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
-        </div>
-    </section>
-</template>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 265">
+                <path fill-opacity="1"
+                    d="M0,256L120,256C240,256,480,256,720,240C960,224,1200,192,1320,176L1440,160L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z">
+            </path>
+        </svg>
+    </div>
+</section></template>

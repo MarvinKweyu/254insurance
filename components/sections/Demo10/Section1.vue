@@ -6,7 +6,7 @@
                 <div class="col-md-6">
                     <div class="hero-10-txt wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Keep your files safe with Martex</h2>
+                        <h2 class="s-52 w-700">Keep your files safe with 254Insurance</h2>
                         <!-- Text -->
                         <h4 class="s-28 color--grey">Your content is secure and stays private anywhere, anytime</h4>
                         <!-- Buttons -->
@@ -21,7 +21,8 @@
                         <!-- Buttons Text -->
                         <p class="p-sm btns-group-txt">
                             Requires macOS 10.13+ or Windows 10+ 64bit.
-                            <span class="txt-data">Current version 2.18.03 <NuxtLink to="/download">What's New?</NuxtLink></span>
+                            <span class="txt-data">Current version 2.18.03 <NuxtLink to="/download">What's New?</NuxtLink>
+                                </span>
                         </p>
                     </div>
                 </div>

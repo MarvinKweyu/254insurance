@@ -6,9 +6,10 @@
                 <div class="col-md-6">
                     <div class="hero-3-txt color--white wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">Increase your website traffic with Martex</h2>
+                        <h2 class="s-60 w-700">Increase your website traffic with 254Insurance</h2>
                         <!-- Text -->
-                        <p class="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute ligula and aliquet tortor</p>
+                        <p class="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute ligula and
+                            aliquet tortor</p>
                         <!-- HERO DIGITS -->
                         <div class="hero-digits">
                             <!-- DIGIT BLOCK #1 -->

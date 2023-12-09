@@ -6,11 +6,15 @@
                 <div class="col-md-6 order-last order-md-2">
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- Section ID -->
-                        <span class="section-id">Co-founder at Martex</span>
+                        <span class="section-id">Co-founder at 254Insurance</span>
                         <!-- Title -->
                         <h2 class="s-50 w-700">Henry Adams</h2>
                         <!-- Text -->
-                        <p class="p-lg">&quot;Sodales tempor sapien diam purus ipsum quaerat and volute fusce a congue laoreet turpis neque diam auctor turpis vitae dolor magna luctus placerat neque ipsum fusce cursus ligula cursus purus vitae purus and ipsum suscipit. Nemo ipsam cubilia donec turpis undo egestas ipsum a purus sapien ultrice aliquam lacus and quaerat an ipsum augue turpis sapien cursus congue augue&quot;</p>
+                        <p class="p-lg">&quot;Sodales tempor sapien diam purus ipsum quaerat and volute fusce a congue
+                            laoreet turpis neque diam auctor turpis vitae dolor magna luctus placerat neque ipsum fusce
+                            cursus ligula cursus purus vitae purus and ipsum suscipit. Nemo ipsam cubilia donec turpis undo
+                            egestas ipsum a purus sapien ultrice aliquam lacus and quaerat an ipsum augue turpis sapien
+                            cursus congue augue&quot;</p>
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->
@@ -33,5 +37,4 @@
             <!-- End row -->
         </div>
         <!-- End container -->
-    </section>
-</template>
+</section></template>

@@ -13,12 +13,13 @@
                                     <img class="img-fluid" src="/assets/images/logo-white.png" alt="logo-image" />
                                     <!-- Title -->
                                     <h2 class="s-42 w-700">Welcome</h2>
-                                    <h2 class="s-42 w-700">back to Martex</h2>
+                                    <h2 class="s-42 w-700">back to 254Insurance</h2>
                                     <!-- Text -->
-                                    <p class="p-md mt-25">Integer congue sagittis and velna augue egestas magna suscipit purus aliquam</p>
+                                    <p class="p-md mt-25">Integer congue sagittis and velna augue egestas magna suscipit
+                                        purus aliquam</p>
                                     <!-- Copyright -->
                                     <div class="register-page-copyright">
-                                        <p class="p-sm">&copy; 2023 Martex. <span>All Rights Reserved</span></p>
+                                        <p class="p-sm">&copy; 2023 254Insurance. <span>All Rights Reserved</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -29,7 +30,9 @@
                                     <form name="signinform" class="row sign-in-form">
                                         <!-- Google Button -->
                                         <div class="col-md-12">
-                                            <a href="#" class="btn btn-google ico-left"> <img src="/assets/images/png_icons/google.png" alt="google-icon" /> Sign in with Google </a>
+                                            <a href="#" class="btn btn-google ico-left"> <img
+                                                    src="/assets/images/png_icons/google.png" alt="google-icon" /> Sign in
+                                                with Google </a>
                                         </div>
                                         <!-- Login Separator -->
                                         <div class="col-md-12 text-center">
@@ -38,20 +41,26 @@
                                         <!-- Form Input -->
                                         <div class="col-md-12">
                                             <p class="p-sm input-header">Email address</p>
-                                            <input class="form-control email" type="email" name="email" placeholder="example@example.com" />
+                                            <input class="form-control email" type="email" name="email"
+                                                placeholder="example@example.com" />
                                         </div>
                                         <!-- Form Input -->
                                         <div class="col-md-12">
                                             <p class="p-sm input-header">Password</p>
                                             <div class="wrap-input">
-                                                <span class="btn-show-pass ico-20"><span class="flaticon-visibility eye-pass"></span></span>
-                                                <input class="form-control password" type="password" name="password" placeholder="* * * * * * * * *" />
+                                                <span class="btn-show-pass ico-20"><span
+                                                        class="flaticon-visibility eye-pass"></span></span>
+                                                <input class="form-control password" type="password" name="password"
+                                                    placeholder="* * * * * * * * *" />
                                             </div>
                                         </div>
                                         <!-- Reset Password Link -->
                                         <div class="col-md-12">
                                             <div class="reset-password-link">
-                                                <p class="p-sm"><NuxtLink to="/reset-password" class="color--theme">Forgot your password?</NuxtLink></p>
+                                                <p class="p-sm">
+                                                    <NuxtLink to="/reset-password" class="color--theme">Forgot your
+                                                        password?</NuxtLink>
+                                                </p>
                                             </div>
                                         </div>
                                         <!-- Form Submit Button -->
@@ -60,7 +69,9 @@
                                         </div>
                                         <!-- Sign Up Link -->
                                         <div class="col-md-12">
-                                            <p class="create-account text-center">Don't have an account? <NuxtLink to="/signup-2" class="color--theme">Sign up</NuxtLink></p>
+                                            <p class="create-account text-center">Don't have an account? <NuxtLink
+                                                    to="/signup-2" class="color--theme">Sign up</NuxtLink>
+                                            </p>
                                         </div>
                                     </form>
                                 </div>
@@ -69,12 +80,11 @@
                         </div>
                         <!-- End row -->
                     </div>
-                    <!-- End register-page-wrapper -->
-                </div>
-                <!-- END REGISTER PAGE WRAPPER -->
+                <!-- End register-page-wrapper -->
             </div>
-            <!-- End row -->
+            <!-- END REGISTER PAGE WRAPPER -->
         </div>
-        <!-- End container -->
+        <!-- End row -->
     </div>
-</template>
+    <!-- End container -->
+</div></template>

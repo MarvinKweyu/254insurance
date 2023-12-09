@@ -133,7 +133,8 @@
                             <!-- Title -->
                             <h6 class="s-18 w-700">Money Back Guarantee</h6>
                             <!-- Text -->
-                            <p>Explore Martex Premium for 14 days. If it’s not a perfect fit, receive a full refund.</p>
+                            <p>Explore 254Insurance Premium for 14 days. If it’s not a perfect fit, receive a full refund.
+                            </p>
                         </div>
                     </div>
                     <!-- Payment Encrypted -->

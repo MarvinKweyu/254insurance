@@ -9,13 +9,15 @@
                         <div class="col">
                             <div class="banner-3-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-48 w-700">Starting with Martex is easy, fast and free</h2>
+                                <h2 class="s-48 w-700">Starting with 254Insurance is easy, fast and free</h2>
                                 <!-- Text -->
                                 <p class="p-xl">It only takes a few clicks to get started</p>
                                 <!-- Button -->
-                                <a href="#" class="btn r-04 btn--theme hover--tra-white" data-bs-toggle="modal" data-bs-target="#modal-3">Get srarted - it's free</a>
+                                <a href="#" class="btn r-04 btn--theme hover--tra-white" data-bs-toggle="modal"
+                                    data-bs-target="#modal-3">Get srarted - it's free</a>
                                 <!-- Button Text -->
-                                <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> Free for 14 days - no credit card required.</p>
+                                <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> Free for 14 days - no
+                                    credit card required.</p>
                             </div>
                         </div>
                         <!-- END BANNER-3 TEXT -->

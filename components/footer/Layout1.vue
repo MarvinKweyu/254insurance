@@ -17,13 +17,19 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/about">About Us</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/about">About Us</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/blog-listing">About Us</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/blog-listing">About Us</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/reviews">Customers</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/reviews">Customers</NuxtLink>
+                                </p>
                             </li>
                             <li>
                                 <p><a href="#">Community</a></p>
@@ -40,16 +46,24 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/features">Integration</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/features">Integration</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/download">What's New</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/download">What's New</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/pricing-1">Pricing</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/pricing-1">Pricing</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/help-center">Help Center</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/help-center">Help Center</NuxtLink>
+                                </p>
                             </li>
                         </ul>
                     </div>
@@ -63,16 +77,24 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/terms">Terms of Use</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/terms">Terms of Use</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/privacy">Privacy Policy</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/privacy">Privacy Policy</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/cookies">Cookie Policy</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/cookies">Cookie Policy</NuxtLink>
+                                </p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/cookies">Site Map</NuxtLink></p>
+                                <p>
+                                    <NuxtLink to="/cookies">Site Map</NuxtLink>
+                                </p>
                             </li>
                         </ul>
                     </div>
@@ -86,7 +108,8 @@
                         <!-- Newsletter Form Input -->
                         <form class="newsletter-form">
                             <div class="input-group r-06">
-                                <input type="email" class="form-control" placeholder="Email Address" required id="s-email" />
+                                <input type="email" class="form-control" placeholder="Email Address" required
+                                    id="s-email" />
                                 <span class="input-group-btn ico-15">
                                     <button type="submit" class="btn color--theme">
                                         <span class="flaticon-right-arrow-1"></span>
@@ -109,7 +132,7 @@
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
                         <div class="footer-copyright">
-                            <p class="p-sm">&copy; 2023 Martex. <span>All Rights Reserved</span></p>
+                            <p class="p-sm">&copy; 2023 254Insurance. <span>All Rights Reserved</span></p>
                         </div>
                     </div>
                     <!-- FOOTER SOCIALS -->
@@ -117,24 +140,23 @@
                         <ul class="bottom-footer-socials ico-20 text-end">
                             <li>
                                 <a href="#"><span class="flaticon-facebook"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-instagram"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="flaticon-youtube"></span></a>
-                            </li>
-                        </ul>
-                    </div>
+                        </li>
+                        <li>
+                            <a href="#"><span class="flaticon-twitter"></span></a>
+                        </li>
+                        <li>
+                            <a href="#"><span class="flaticon-instagram"></span></a>
+                        </li>
+                        <li>
+                            <a href="#"><span class="flaticon-youtube"></span></a>
+                        </li>
+                    </ul>
                 </div>
-                <!-- End row -->
             </div>
-            <!-- END BOTTOM FOOTER -->
+            <!-- End row -->
         </div>
-        <!-- End container -->
-        <FooterGoToTop />
-    </footer>
-</template>
+        <!-- END BOTTOM FOOTER -->
+    </div>
+    <!-- End container -->
+    <FooterGoToTop />
+</footer></template>
