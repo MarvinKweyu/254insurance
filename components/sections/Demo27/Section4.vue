@@ -17,7 +17,7 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box mb-0">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Connect your data sources</h5>
+                            <h5 class="s-24 w-700">Insure things and people you care about</h5>
                             <!-- Text -->
                             <p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit purus</p>
                             <!-- List -->

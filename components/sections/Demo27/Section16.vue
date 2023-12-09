@@ -35,7 +35,7 @@
                         <div class="fbox-2 fb-2 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_05.png" alt="feature-image" />
+                                <img class="img-fluid" src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
