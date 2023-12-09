@@ -13,7 +13,7 @@
                                 <!-- Text -->
                                 <p class="p-lg">We're constantly looking for talented people to join our team. Don't hesitate to get in touch with us</p>
                                 <!-- Button -->
-                                <a href="mailto:yourdomain@mail.com" class="btn r-04 btn--theme hover--tra-white">yourdomain@mail.com</a>
+                                <a href="mailto:bilha@254insurance.com" class="btn r-04 btn--theme hover--tra-white">bilha@254insurance.com</a>
                             </div>
                         </div>
                         <!-- END BANNER-12 TEXT -->

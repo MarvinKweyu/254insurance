@@ -11,7 +11,7 @@
                                 <!-- Title -->
                                 <h2 class="s-46 w-700">We can't wait to meet you</h2>
                                 <!-- Button -->
-                                <a href="mailto:yourdomain@mail.com" class="btn r-04 btn--theme hover--theme">bilha@254insurance.com</a>
+                                <a href="mailto:bilha@254insurance.com" class="btn r-04 btn--theme hover--theme">bilha@254insurance.com</a>
                             </div>
                         </div>
                     </div>

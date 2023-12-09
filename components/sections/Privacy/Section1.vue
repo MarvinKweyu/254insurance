@@ -120,7 +120,7 @@
                         <!-- Title -->
                         <h4 class="s-30 w-700"><span>9.</span> How to Contact Us</h4>
                         <!-- Text -->
-                        <p>If you have any questions or suggestions about this Terms of Service, do not hesitate to contact us at <a href="mailto:yourdomain@mail.com" class="color--theme">bilha@254insurance.com</a></p>
+                        <p>If you have any questions or suggestions about this Terms of Service, do not hesitate to contact us at <a href="mailto:bilha@254insurance.com" class="color--theme">bilha@254insurance.com</a></p>
                     </div>
                     <!-- END TEXT BLOCK -->
                 </div>

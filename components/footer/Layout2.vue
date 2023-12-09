@@ -109,7 +109,7 @@
                         <h6 class="s-17 w-700">Connect With Us</h6>
                         <!-- Mail Link -->
                         <p class="footer-mail-link ico-25">
-                            <a href="mailto:yourdomain@mail.com">bilha@254insurance.com</a>
+                            <a href="mailto:bilha@254insurance.com">bilha@254insurance.com</a>
                         </p>
                         <!-- Social Links -->
                         <ul class="footer-socials ico-25 text-center clearfix">
