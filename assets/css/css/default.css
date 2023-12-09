@@ -22,7 +22,7 @@
 .btn--theme {
   color: #fff !important;
   border-color: #f74780 !important;
-  background-color: #f74780 !important;
+  background-color: red !important;
 }
 
 .hover--theme:hover {
