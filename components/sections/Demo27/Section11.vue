@@ -26,7 +26,7 @@
                             </li>
                         </ul>
                         <!-- Button -->
-                        <a href="#banner-7" class="btn btn-sm r-04 btn--theme hover--tra-black"> Get srarted - it's free </a>
+                        <a href="mailto:bilha@254insurance.com" class="btn btn-sm r-04 btn--theme hover--tra-black"> Get srarted </a>
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->
