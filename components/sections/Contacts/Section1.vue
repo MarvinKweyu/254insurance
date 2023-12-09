@@ -8,7 +8,8 @@
                         <!-- Title -->
                         <h2 class="s-52 w-700">Questions? Let's Talk</h2>
                         <!-- Text -->
-                        <p class="p-lg">Want to learn more about Martex, get a quote, or speak with an expert? Let us know what you are looking for and we’ll get back to you right away</p>
+                        <p class="p-lg">Want to learn more about 254Insurance, get a quote, or speak with an expert? Let us
+                            know what you are looking for and we’ll get back to you right away</p>
                     </div>
                 </div>
             </div>
@@ -23,10 +24,9 @@
                                 <span>Choose a topic, so we know who to send your request to: </span>
                                 <select class="form-select subject" aria-label="Default select example">
                                     <option selected>This question is about...</option>
-                                    <option>Registering/Authorising</option>
-                                    <option>Using Application</option>
-                                    <option>Troubleshooting</option>
-                                    <option>Backup/Restore</option>
+                                    <option>Registering</option>
+                                    
+                                    
                                     <option>Other</option>
                                 </select>
                             </div>
@@ -43,15 +43,19 @@
                             </div>
                             <div class="col-md-12">
                                 <p class="p-lg">Explain your question in details:</p>
-                                <span>Your OS version, Martex version & build, steps you did. Be VERY precise!</span>
-                                <textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea>
+                                <span>Let us know more about your specific needs!</span>
+                                <textarea class="form-control message" name="message" rows="6"
+                                    placeholder="I have a problem with..."></textarea>
                             </div>
                             <!-- Contact Form Button -->
                             <div class="col-md-12 mt-15 form-btn text-right">
                                 <button type="submit" class="btn btn--theme hover--theme submit">Submit Request</button>
                             </div>
                             <div class="contact-form-notice">
-                                <p class="p-sm">We are committed to your privacy. Martex uses the information you provide us to contact you about our relevant content, products, and services. You may unsubscribe from these communications at any time. For more information, check out our <NuxtLink to="/privacy">Privacy Policy</NuxtLink>.</p>
+                                <p class="p-sm">We are committed to your privacy. 254Insurance uses the information you
+                                    provide us to contact you about our relevant content, products, and services. You may
+                                    unsubscribe from these communications at any time. For more information, check out our
+                                    <NuxtLink to="/privacy">Privacy Policy</NuxtLink>.</p>
                             </div>
                             <!-- Contact Form Message -->
                             <div class="col-lg-12 contact-form-msg">
@@ -64,6 +68,5 @@
             <!-- END CONTACT FORM -->
         </div>
         <!-- End container -->
-    </section>
-    <hr class="divider" />
-</template>
+</section>
+<hr class="divider" /></template>

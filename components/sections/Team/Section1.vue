@@ -166,7 +166,7 @@
                             <div class="team-member-data">
                                 <!-- Data -->
                                 <h6 class="s-20 color--black w-700">Olivia Steiner</h6>
-                                <p class="color--grey">Customers Manager</p>
+                                <p class="color--grey">Clients Manager</p>
                                 <!-- Social Links -->
                                 <ul class="tm-social ico-20 clearfix">
                                     <li>
@@ -194,7 +194,7 @@
                             <div class="team-member-data">
                                 <!-- Data -->
                                 <h6 class="s-20 color--black w-700">Charles Fairless</h6>
-                                <p class="color--grey">Customers Manager</p>
+                                <p class="color--grey">Clients Manager</p>
                                 <!-- Social Links -->
                                 <ul class="tm-social ico-20 clearfix">
                                     <li>

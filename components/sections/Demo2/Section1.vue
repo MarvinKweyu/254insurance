@@ -12,9 +12,10 @@
                 <div class="col-md-6 order-first order-md-2">
                     <div class="hero-2-txt wow fadeInLeft">
                         <!-- Title -->
-                        <h2 class="s-56 w-700 color--black">Realize your digital potential with Martex</h2>
+                        <h2 class="s-56 w-700 color--black">Realize your digital potential with 254Insurance</h2>
                         <!-- Text -->
-                        <p class="p-lg">Tempor sapien sodales quaerat ipsum congue ipsum laoreet turpis neque auctor turpis a vitae dolor luctus placerat magna and ligula cursus purus ipsum</p>
+                        <p class="p-lg">Tempor sapien sodales quaerat ipsum congue ipsum laoreet turpis neque auctor turpis
+                            a vitae dolor luctus placerat magna and ligula cursus purus ipsum</p>
                         <!-- HERO DIGITS -->
                         <div class="hero-digits">
                             <!-- DIGIT BLOCK #1 -->

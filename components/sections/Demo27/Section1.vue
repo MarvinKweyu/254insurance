@@ -7,20 +7,21 @@
                     <div class="col-md-10 col-lg-9">
                         <div class="hero-27-txt wow fadeInUp">
                             <!-- Title -->
-                            <h2 class="s-60 w-700">The complete toolkit to engage your business</h2>
+                            <!-- 254Insurance: Safeguarding Lives, Ensuring Peace – Your Trusted Partner in Health and Death Insurance. -->
+                            <h2 class="s-60 w-700">Your Trusted Partner in Health and Death Insurance.</h2>
                             <!-- Text -->
                             <p class="s-20">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida and aliquet tortor aliquet egestas magna</p>
                             <!-- Buttons -->
                             <div class="btns-group d-flex justify-content-center">
-                                <a href="#banner-3" class="btn r-04 btn--theme hover--theme">Get started for free</a>
-                                <ElementsVideoModal :link="'https://www.youtube.com/embed/Pf03RTjeISE'">
+                                <a href="#banner-3" class="btn r-04 btn--theme hover--theme">Get started</a>
+                                <ElementsVideoModal :link="'https://www.youtube.com/embed/DBTmNm8D-84'">
                                     <template v-slot:button>
                                         <span class="video-popup2 btn r-04 btn--theme hover--tra-black ico-20 ico-right">See how it works</span>
                                     </template>
                                 </ElementsVideoModal>
                             </div>
                             <!-- Advantages List -->
-                            <ul class="advantages ico-15 mt-25 clearfix">
+                            <ul class="advantages ico-15 mt-25 clearfix d-none">
                                 <li><p>No credit card required</p></li>
                                 <li class="advantages-links-divider">
                                     <p><span class="flaticon-minus"></span></p>
@@ -29,7 +30,7 @@
                                 <li class="advantages-links-divider">
                                     <p><span class="flaticon-minus"></span></p>
                                 </li>
-                                <li><p>Free 14 days trial</p></li>
+                                <li class="d-none"><p>Free 14 days trial</p></li>
                             </ul>
                         </div>
                     </div>

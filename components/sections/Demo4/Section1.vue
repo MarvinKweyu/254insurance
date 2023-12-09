@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9 col-xl-10">
                     <div class="hero-4-txt wow fadeInUp">
                         <!-- Title -->
-                        <h2 class="s-56 w-700">Manage all your content in easy way with Martex</h2>
+                        <h2 class="s-56 w-700">Manage all your content in easy way with 254Insurance</h2>
                         <!-- Buttons -->
                         <div class="btns-group mt-15">
                             <a href="#" class="btn r-04 btn--theme hover--black">Download for MacOS</a>
@@ -15,7 +15,8 @@
                         <!-- Buttons Group Text -->
                         <p class="p-sm btns-group-txt color--black">
                             Requires macOS 10.13+ or Windows 10+ 64bit.
-                            <span class="txt-data">Current version 2.18.03 <NuxtLink to="/download">What's New?</NuxtLink></span>
+                            <span class="txt-data">Current version 2.18.03 <NuxtLink to="/download">What's New?</NuxtLink>
+                                </span>
                         </p>
                     </div>
                 </div>

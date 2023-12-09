@@ -10,7 +10,7 @@
                                 <!-- Section ID -->
                                 <span class="section-id">Strategies That Work</span>
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Quality traffic leads to quality customers!</h2>
+                                <h2 class="s-46 w-700">Quality traffic leads to quality Clients!</h2>
                                 <!-- List -->
                                 <ul class="simple-list">
                                     <li class="list-item">

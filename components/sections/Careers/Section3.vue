@@ -34,7 +34,7 @@
                                 <!-- Text -->
                                 <p>Nullam tempor pretium a gravida donec congue ipsum porta justo integer dolor odio auctor a neque suscipit an ipsum integer congue purus at pretium turpis egestas and volute laoreet quaerat</p>
                                 <!-- Author -->
-                                <p class="a2-txt-author">Charlie Cheever <span>CEO & CO-FOUNDER</span></p>
+                                <p class="a2-txt-author">Bilha Wachira<span>CEO & CO-FOUNDER</span></p>
                             </div>
                         </div>
                         <!-- IMAGE-4 -->

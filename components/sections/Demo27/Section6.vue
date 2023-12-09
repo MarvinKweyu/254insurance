@@ -19,7 +19,7 @@
                         <!-- Text -->
                         <p class="mb-0">Nemo ipsam egestas volute turpis egestas ipsum and purus sapien ultrice an aliquam quaerat ipsum augue turpis sapien cursus congue magna purus quaerat at ligula purus egestas magna cursus undo varius purus magnis sapien quaerat</p>
                         <!-- Link -->
-                        <div class="txt-block-tra-link mt-25">
+                        <div class="txt-block-tra-link mt-25 d-none">
                             <a href="#integrations-2" class="tra-link ico-20 color--theme"> Friendly with others <span class="flaticon-next"></span> </a>
                         </div>
                     </div>

@@ -9846,7 +9846,7 @@ img.footer-logo,
 img.footer-logo-dark {
   width: auto;
   max-width: inherit;
-  max-height: 40px;
+  max-height: 200px;
 }
 
 #footer-10 img.footer-logo {

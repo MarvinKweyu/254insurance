@@ -84,7 +84,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Digital Marketing</h6>
+                                <h6 class="s-22 w-700">Financial security</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Web Development</h6>
+                                <h6 class="s-22 w-700">Educational support</h6>
                                 <p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum</p>
                             </div>
                         </div>

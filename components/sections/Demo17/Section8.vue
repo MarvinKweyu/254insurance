@@ -13,18 +13,21 @@
                 <div class="col-md-6">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Bring your ideas to life with Martex</h2>
+                        <h2 class="s-46 w-700">Bring your ideas to life with 254Insurance</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor
+                            luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
                         <!-- Small Title -->
                         <h5 class="s-24 w-700">Enhance your personality</h5>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">
-                                <p>Sapien quaerat tempor an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue cursus dolor</p>
+                                <p>Sapien quaerat tempor an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam
+                                    undo congue cursus dolor</p>
                             </li>
                             <li class="list-item">
-                                <p class="mb-0">Purus suscipit cursus vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue magna placerat</p>
+                                <p class="mb-0">Purus suscipit cursus vitae cubilia magnis volute egestas vitae sapien
+                                    turpis ultrice auctor congue magna placerat</p>
                             </li>
                         </ul>
                     </div>
@@ -34,5 +37,4 @@
             <!-- END SECTION CONTENT (ROW) -->
         </div>
         <!-- End container -->
-    </section>
-</template>
+    </section></template>

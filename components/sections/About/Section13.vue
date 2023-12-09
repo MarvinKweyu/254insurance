@@ -1,5 +1,5 @@
 <template>
-    <section id="blog-1" class="py-100 blog-section division">
+    <section id="blog-1" class="py-100 blog-section division d-none">
         <div class="container">
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">
@@ -26,18 +26,24 @@
                             <span class="post-tag color--pink-400">Product News</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Aliqum mullam porta blandit: tempor sapien and gravida</NuxtLink>
+                                <NuxtLink tp="/single-post">Aliqum mullam porta blandit: tempor sapien and gravida
+                                </NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Egestas luctus vitae augue and ipsum ultrice quisque in cursus lacus feugiat congue diam ultrice laoreet sagittis</p>
+                            <p>Egestas luctus vitae augue and ipsum ultrice quisque in cursus lacus feugiat congue diam
+                                ultrice laoreet sagittis</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Helen J.</p></li>
+                                    <li>
+                                        <p class="p-sm w-500">By Helen J.</p>
+                                    </li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Apr 28, 2023</p></li>
+                                    <li>
+                                        <p class="p-sm">Apr 28, 2023</p>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -58,18 +64,23 @@
                             <span class="post-tag color--green-400">Community</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Porttitor cursus fusce egestas CEO cursus at magna sapien suscipit and egestas ipsum</NuxtLink>
+                                <NuxtLink tp="/single-post">Porttitor cursus fusce egestas CEO cursus at magna sapien
+                                    suscipit and egestas ipsum</NuxtLink>
                             </h6>
                             <!-- Text -->
                             <p>Aliqum mullam ipsum vitae and blandit vitae tempor sapien and donec lipsum</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Martex Team</p></li>
+                                    <li>
+                                        <p class="p-sm w-500">By 254Insurance Team</p>
+                                    </li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Apr 14, 2023</p></li>
+                                    <li>
+                                        <p class="p-sm">Apr 14, 2023</p>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -90,31 +101,36 @@
                             <span class="post-tag color--purple-400">Freelancer Tips</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and Martex magna impedit</NuxtLink>
+                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and 254Insurance magna impedit
+                                </NuxtLink>
                             </h6>
                             <!-- Text -->
-                            <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue ultrice sagittis laoreet</p>
+                            <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue
+                                ultrice sagittis laoreet</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Miranda Green</p></li>
+                                    <li>
+                                        <p class="p-sm w-500">By Miranda Green</p>
+                                    </li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
-                                    <li><p class="p-sm">Mar 27, 2023</p></li>
+                                    <li>
+                                        <p class="p-sm">Mar 27, 2023</p>
+                                    </li>
                                 </ul>
-                            </div>
                         </div>
-                        <!-- END BLOG POST TEXT -->
                     </div>
+                    <!-- END BLOG POST TEXT -->
                 </div>
-                <!-- END BLOG POST #3 -->
             </div>
-            <!-- End row -->
+            <!-- END BLOG POST #3 -->
         </div>
-        <!-- End container -->
-    </section>
-    <!-- END BLOG-1 -->
-    <!-- DIVIDER LINE -->
-    <hr class="divider" />
-</template>
+        <!-- End row -->
+    </div>
+    <!-- End container -->
+</section>
+<!-- END BLOG-1 -->
+<!-- DIVIDER LINE -->
+<hr class="divider" /></template>

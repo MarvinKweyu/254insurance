@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Discover insights across all your data with Martex</h2>
+                        <h2 class="s-50 w-700">Discover insights across all your data with 254Insurance</h2>
                         <!-- Text -->
                         <p class="s-21">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>

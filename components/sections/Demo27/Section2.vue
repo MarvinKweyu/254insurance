@@ -8,7 +8,7 @@
                         <div class="col-md-6 order-last order-md-2">
                             <div class="txt-block left-column wow fadeInRight">
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Open up your business to new possibilities</h2>
+                                <h2 class="s-46 w-700">Open up yourself to new possibilities</h2>
                                 <!-- List -->
                                 <ul class="simple-list">
                                     <li class="list-item">
@@ -20,7 +20,7 @@
                                 </ul>
                                 <!-- Link -->
                                 <div class="txt-block-tra-link mt-25">
-                                    <a href="#features-2" class="tra-link ico-20 color--theme"> The smarter way to work <span class="flaticon-next"></span> </a>
+                                    <a href="#features-2" class="tra-link ico-20 color--theme"> The smarter way to live <span class="flaticon-next"></span> </a>
                                 </div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-6 order-first order-md-2">
                             <div class="img-block right-column wow fadeInLeft">
-                                <img class="img-fluid" src="/assets/images/img-06.png" alt="content-image" />
+                                <img class="img-fluid" src="https://images.unsplash.com/photo-1553276738-5a611037a82c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="content-image" />
                             </div>
                         </div>
                     </div>

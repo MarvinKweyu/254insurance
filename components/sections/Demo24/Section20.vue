@@ -9,11 +9,13 @@
                         <div class="col-md-7">
                             <div class="banner-13-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Getting started with Martex today!</h2>
+                                <h2 class="s-46 w-700">Getting started with 254Insurance today!</h2>
                                 <!-- Text -->
-                                <p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus placerat and magna ligula cursus</p>
+                                <p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus placerat and
+                                    magna ligula cursus</p>
                                 <!-- Button -->
-                                <a href="#hero-24" class="btn r-04 btn--theme hover--tra-white"> Get srarted - it's free </a>
+                                <a href="#hero-24" class="btn r-04 btn--theme hover--tra-white"> Get srarted - it's free
+                                </a>
                             </div>
                         </div>
                         <!-- END BANNER-13 TEXT -->

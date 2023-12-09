@@ -6,7 +6,7 @@
                 <div class="col-md-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Streamline your workflow, achieve excellence</h2>
+                        <h2 class="s-50 w-700">Protect your future, grow your legacy</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
@@ -32,8 +32,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Integrated</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Life Insurance</h6>
+                                <p class="p-sm">Family income replacement, funeral expenses and outstanding debt and your childrens college fund</p>
                             </div>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Intuitive</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Critival illness/injury</h6>
+                                <p class="p-sm">Draw out up to 90% of your life insurance benefits in the event of an incapacitating illness / accident</p>
                             </div>
                         </div>
                     </div>
@@ -78,8 +78,8 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-20 w-700">Flexible</h6>
-                                <p class="p-sm">Feugiat primis ipsum and ultrice a semper lacus</p>
+                                <h6 class="s-20 w-700">Retirement planning</h6>
+                                <p class="p-sm">Tax free retirement funding, potential guaranteed lifetime income, long term care and protection from market losses.</p>
                             </div>
                         </div>
                     </div>

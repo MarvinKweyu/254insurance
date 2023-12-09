@@ -8,7 +8,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Built-In Automation</span>
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Connect your brand with your customers</h2>
+                        <h2 class="s-52 w-700">Connect your brand with your Clients</h2>
                         <!-- Text -->
                         <p class="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute ligula and aliquet tortor</p>
                         <!-- Button -->
