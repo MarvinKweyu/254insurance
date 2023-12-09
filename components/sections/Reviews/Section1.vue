@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-52 w-700">Here’s what our amazing clients are saying</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Read what customers think about us</p>
+                        <p class="s-21 color--grey">Read what Clients think about us</p>
                     </div>
                 </div>
             </div>

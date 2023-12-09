@@ -119,7 +119,7 @@
                             <NuxtLink to="/" class="h-link">Home</NuxtLink>
                         </li>
                     <!-- SIMPLE NAVIGATION LINK -->
-                    <li class="nl-simple" aria-haspopup="true">
+                    <li class="nl-simple d-none" aria-haspopup="true">
                         <NuxtLink to="/about" class="h-link">About Us</NuxtLink>
                     </li>
                     <!-- MEGAMENU -->

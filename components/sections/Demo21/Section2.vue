@@ -16,7 +16,7 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-txt">
-                                    <h5 class="s-19 w-700">Happy Customers</h5>
+                                    <h5 class="s-19 w-700">Happy Clients</h5>
                                     <p>Porta justo integer and velna vitae auctor and magna quaerat ligula</p>
                                 </div>
                             </div>

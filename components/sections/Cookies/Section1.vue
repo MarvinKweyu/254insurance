@@ -184,7 +184,7 @@
                         diam augue fusce sapien</p>
                     <!-- Text -->
                     <p>If you have any questions or suggestions about this Terms of Service, do not hesitate to contact
-                        us at <a href="mailto:yourdomain@mail.com" class="color--theme">hello@yourdomain.com</a></p>
+                        us at <a href="mailto:yourdomain@mail.com" class="color--theme">bilha@254insurance.com</a></p>
                 </div>
                 <!-- END TEXT BLOCK -->
             </div>

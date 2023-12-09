@@ -9,7 +9,7 @@
                         <!-- TEXT BOX -->
                         <div class="txt-box">
                             <!-- Title -->
-                            <h5 class="s-24 w-700">Solution that grows with you</h5>
+                            <h5 class="s-24 w-700">The solution that grows with you</h5>
                             <!-- Text -->
                             <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
                         </div>

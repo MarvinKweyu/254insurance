@@ -55,7 +55,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Joel Peterson</h6>
-                                <p class="p-sm">Internet Surfer</p>
+                                <p class="p-sm">Gym instructor</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -105,7 +105,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Leslie D.</h6>
-                                <p class="p-sm">Web Developer</p>
+                                <p class="p-sm">Retired nurse</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -130,7 +130,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Jennifer Harper</h6>
-                                <p class="p-sm">App Developer</p>
+                                <p class="p-sm">Business owner</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -155,7 +155,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Jonathan Barnes</h6>
-                                <p class="p-sm">jQuery Programmer</p>
+                                <p class="p-sm">Baker</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -180,7 +180,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Mike Harris</h6>
-                                <p class="p-sm">Graphic Designer</p>
+                                <p class="p-sm">Chef</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -205,7 +205,7 @@
                             <!-- Data -->
                             <div class="review-author">
                                 <h6 class="s-18 w-700">Evelyn Martinez</h6>
-                                <p class="p-sm">WordPress Consultant</p>
+                                <p class="p-sm">Consultant</p>
                             </div>
                         </div>
                         <!-- End Author -->

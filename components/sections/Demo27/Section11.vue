@@ -13,7 +13,7 @@
                 <div class="col-md-6">
                     <div class="txt-block right-column wow fadeInLeft">
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Achieve more with better workflows</h2>
+                        <h2 class="s-46 w-700">Achieve more with an insurance backing</h2>
                         <!-- Text -->
                         <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
                         <!-- List -->

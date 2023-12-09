@@ -86,14 +86,13 @@
                         <div class="col">
                             <div class="banner-3-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-48 w-700">Starting with 254Insurance is easy, fast and free</h2>
+                                <h2 class="s-48 w-700 ">Starting with 254Insurance is easy and fast</h2>
                                 <!-- Text -->
-                                <p class="p-xl">It only takes a few clicks to get started</p>
+                                <p class="p-xl d-none">It only takes a few clicks to get started</p>
                                 <!-- Button -->
-                                <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's
-                                    free</NuxtLink>
+                                <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="mailto:bilha@254insurance.com">Get srarted</a>
                                 <!-- Button Text -->
-                                <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> Free for 14 days, no
+                                <p class="p-sm btn-txt ico-15 d-none"><span class="flaticon-check"></span> Free for 14 days, no
                                     credit card required.</p>
                             </div>
                         </div>

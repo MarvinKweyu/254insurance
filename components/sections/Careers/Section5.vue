@@ -8,7 +8,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Co-founder at 254Insurance</span>
                         <!-- Title -->
-                        <h2 class="s-48 w-700">Henry Adams</h2>
+                        <h2 class="s-48 w-700">Bilha Wachira</h2>
                         <!-- Text -->
                         <p class="p-lg mb-0">&quot;Sodales tempor sapien diam purus ipsum quaerat and volute fusce a congue
                             laoreet turpis neque diam auctor turpis vitae dolor magna luctus placerat neque ipsum fusce
@@ -22,7 +22,7 @@
                 <div class="col-md-6 order-first order-md-2">
                     <div class="img-block j-img video-preview right-column wow fadeInLeft">
                         <!-- Play Icon -->
-                        <ElementsVideoModal :link="'https://www.youtube.com/embed/GcMiYI1gWD4'">
+                        <ElementsVideoModal :link="'https://www.youtube.com/embed/DBTmNm8D-84'">
                             <template v-slot:button>
                                 <div class="video-btn video-btn-xl bg--theme">
                                     <div class="video-block-wrapper"><span class="flaticon-play-button"></span></div>

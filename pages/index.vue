@@ -8,13 +8,13 @@
         <SectionsDemo27Section6 />
         <!-- <SectionsDemo27Section7 /> -->
         <SectionsDemo27Section8 />
-        <SectionsDemo27Section9 />
-        <SectionsDemo27Section10 />
+        <SectionsDemo27Section9 class="d-none"/>
+        <SectionsDemo27Section10 class="d-none"/>
         <SectionsDemo27Section11 />
-        <SectionsDemo27Section12 />
+        <SectionsDemo27Section12 class="d-none"/>
         <SectionsDemo27Section13 />
-        <SectionsDemo27Section14 />
-        <SectionsDemo27Section15 />
+        <SectionsDemo27Section14 class="d-none"/>
+        <SectionsDemo27Section15 class="d-none"/>
         <SectionsDemo27Section16 />
         <!-- <SectionsDemo27Section17 /> -->
         <SectionsDemo27Section18 />

@@ -1,5 +1,5 @@
 <template>
-    <section id="blog-1" class="py-100 blog-section division">
+    <section id="blog-1" class="py-100 blog-section division d-none">
         <div class="container">
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">

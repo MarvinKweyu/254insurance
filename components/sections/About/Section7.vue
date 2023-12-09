@@ -1,5 +1,5 @@
 <template>
-    <section id="team-1" class="pt-100 team-section">
+    <section id="team-1" class="pt-100 team-section d-none">
         <div class="container">
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">

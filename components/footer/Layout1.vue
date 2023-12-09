@@ -6,32 +6,23 @@
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
                     <div class="footer-info">
-                        <img class="footer-logo" src="/assets/images/logo-pink.png" alt="footer-logo" />
+                        <img class="footer-logo" src="/assets/images/254Insurance.png" alt="footer-logo" height="300"/>
                     </div>
                 </div>
                 <!-- FOOTER LINKS -->
                 <div class="col-sm-4 col-lg-3 col-xl-2">
                     <div class="footer-links fl-1">
                         <!-- Title -->
-                        <h6 class="s-17 w-700">Company</h6>
+                        <h6 class="s-17 w-700">Agency</h6>
                         <!-- Links -->
                         <ul class="foo-links clearfix">
+                         
                             <li>
                                 <p>
-                                    <NuxtLink to="/about">About Us</NuxtLink>
+                                    <NuxtLink to="/reviews">Clients</NuxtLink>
                                 </p>
                             </li>
-                            <li>
-                                <p>
-                                    <NuxtLink to="/blog-listing">About Us</NuxtLink>
-                                </p>
-                            </li>
-                            <li>
-                                <p>
-                                    <NuxtLink to="/reviews">Customers</NuxtLink>
-                                </p>
-                            </li>
-                            <li>
+                            <li class="d-none">
                                 <p><a href="#">Community</a></p>
                             </li>
                         </ul>
@@ -39,7 +30,7 @@
                 </div>
                 <!-- END FOOTER LINKS -->
                 <!-- FOOTER LINKS -->
-                <div class="col-sm-4 col-lg-2">
+                <div class="col-sm-4 col-lg-2 d-none">
                     <div class="footer-links fl-2">
                         <!-- Title -->
                         <h6 class="s-17 w-700">Product</h6>
@@ -81,7 +72,7 @@
                                     <NuxtLink to="/terms">Terms of Use</NuxtLink>
                                 </p>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <p>
                                     <NuxtLink to="/privacy">Privacy Policy</NuxtLink>
                                 </p>
@@ -91,11 +82,11 @@
                                     <NuxtLink to="/cookies">Cookie Policy</NuxtLink>
                                 </p>
                             </li>
-                            <li>
+                            <li class="d-none">
                                 <p>
                                     <NuxtLink to="/cookies">Site Map</NuxtLink>
                                 </p>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>

@@ -9,13 +9,13 @@
                         <div class="col">
                             <div class="banner-1-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-45 w-700">Give it a try, it's free!</h2>
+                                <h2 class="s-45 w-700">Give it a try</h2>
                                 <!-- Text -->
                                 <p class="p-xl">It only takes a few clicks to get started</p>
                                 <!-- Button -->
-                                <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free </NuxtLink>
+                                <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Get srarted</NuxtLink>
                                 <!-- Button Text -->
-                                <p class="p-sm btn-txt ico-15 o-85"><span class="flaticon-check"></span> Free for 14 days, no credit card required.</p>
+                                <p class="p-sm btn-txt ico-15 o-85 d-none"><span class="flaticon-check"></span> Free for 14 days, no credit card required.</p>
                             </div>
                         </div>
                         <!-- END BANNER-1 TEXT -->

@@ -24,7 +24,7 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Intuitive Dashboard</h6>
+                                <h6 class="s-22 w-700">Intuitive plans</h6>
                                 <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Effortless Integration</h6>
+                                <h6 class="s-22 w-700">Effortless saving</h6>
                                 <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
                             </div>
                         </div>

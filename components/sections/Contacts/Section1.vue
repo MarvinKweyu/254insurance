@@ -24,10 +24,9 @@
                                 <span>Choose a topic, so we know who to send your request to: </span>
                                 <select class="form-select subject" aria-label="Default select example">
                                     <option selected>This question is about...</option>
-                                    <option>Registering/Authorising</option>
-                                    <option>Using Application</option>
-                                    <option>Troubleshooting</option>
-                                    <option>Backup/Restore</option>
+                                    <option>Registering</option>
+                                    
+                                    
                                     <option>Other</option>
                                 </select>
                             </div>
@@ -44,7 +43,7 @@
                             </div>
                             <div class="col-md-12">
                                 <p class="p-lg">Explain your question in details:</p>
-                                <span>Your OS version, 254Insurance version & build, steps you did. Be VERY precise!</span>
+                                <span>Let us know more about your specific needs!</span>
                                 <textarea class="form-control message" name="message" rows="6"
                                     placeholder="I have a problem with..."></textarea>
                             </div>

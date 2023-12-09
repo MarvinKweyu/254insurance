@@ -6,7 +6,7 @@
                 <div class="col-md-11 col-lg-10 col-xl-9">
                     <div class="about-2-title mb-60">
                         <!-- Title -->
-                        <h2 class="s-52 w-700 mb-30">We provide solutions for your creative ideas</h2>
+                        <h2 class="s-52 w-700 mb-30">We provide insurance solutions for your health</h2>
                         <!-- Text -->
                         <p class="mb-0">An enim nullam tempor sapien gravida donec pretium ipsum porta justo integer and purus velna vitae auctor integer undo congue diam purus pretium and ligula tempor primis libero at tempus, blandit and cursus varius magnis at sapien egestas purus vitae purus an ipsum</p>
                     </div>
@@ -48,7 +48,7 @@
                                 <!-- Text -->
                                 <p>Nullam tempor pretium a gravida donec congue ipsum porta justo integer dolor odio auctor a neque suscipit an ipsum integer congue purus at pretium turpis egestas and volute laoreet quaerat</p>
                                 <!-- Author -->
-                                <p class="a2-txt-author">Charlie Cheever <span>CEO & CO-FOUNDER</span></p>
+                                <p class="a2-txt-author">Bilha Wachira<span>CEO & CO-FOUNDER</span></p>
                             </div>
                         </div>
                         <!-- IMAGE-4 -->
