@@ -84,7 +84,7 @@
                 <img class="img-fluid" src="/assets/images/bilha.jpeg" alt="Bilha Wachira" />
             </div>
             <div class="col ">
-                <div class="fonder-description">
+                <div class="founder-description">
                     <h6 class="s-20 color--black w-700">Bilha Wachira</h6>
                     <p class="color--grey">Founder and CEO</p>
                     <article>
@@ -100,7 +100,7 @@
                     
 </template>
 
-<style>
+<style scoped>
 .img-fluid{
     width: 60%;
     height: 80%;
@@ -114,7 +114,7 @@
     justify-content: center;
     align-items: center;
 }
-.founder-description{
+/* .founder-description{
     margin-top: 20%;
-}
+} */
 </style>
