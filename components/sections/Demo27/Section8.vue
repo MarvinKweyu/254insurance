@@ -27,7 +27,7 @@
 </template>
 
 
-<style>
+<style scoped>
 .img-fluid{
     margin-left: 20%;
     max-width: 80%;
