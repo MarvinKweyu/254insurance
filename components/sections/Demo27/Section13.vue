@@ -1,5 +1,5 @@
 <template>
-    <div id="statistic-1" class="py-100 statistic-section division">
+    <div id="statistic-1" class="py-100 statistic-section division d-none">
         <div class="container">
             <!-- STATISTIC-1 WRAPPER -->
             <div class="statistic-1-wrapper">

@@ -33,14 +33,15 @@
                     <!-- FEATURE BOX #2 -->
                     <div class="col">
                         <div class="fbox-2 fb-2 wow fadeInUp">
-                            <!-- Image -->
-                            <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
-                            </div>
+                         
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Effortless saving</h6>
+                                <h6 class="s-22 w-700">Retirement planning</h6>
                                 <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                            </div>
+                               <!-- Image -->
+                            <div class="fbox-img gr--whitesmoke h-175">
+                                <img class="img-fluid" src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
                             </div>
                         </div>
                     </div>

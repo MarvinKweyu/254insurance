@@ -8,27 +8,26 @@
                         <div class="col-md-6 order-last order-md-2">
                             <div class="txt-block left-column wow fadeInRight">
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Open up yourself to new possibilities</h2>
-                                <!-- List -->
-                                <ul class="simple-list">
-                                    <li class="list-item">
-                                        <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis sodales magna</p>
-                                    </li>
-                                    <li class="list-item">
-                                        <p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam congue</p>
-                                    </li>
-                                </ul>
-                                <!-- Link -->
-                                <div class="txt-block-tra-link mt-25">
-                                    <a href="#features-2" class="tra-link ico-20 color--theme"> The smarter way to live <span class="flaticon-next"></span> </a>
-                                </div>
+                                <h2 class="s-46 w-700">254 Insurance Services</h2>
+                             
+                                <!-- <div>
+                                    Bilha Wachira is a passionate insurance advisor vastly experienced in the life and health insurance industry.  She has hands on experience and a business acumen spanning well over 15+ years. 
+                                    Her passion is to see all  families covered for death, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
+
+                                </div> -->
+                                <!-- add a break here -->
+
+                                <article class="mt-3">
+                                    We will help you simplify your life and health plan choices and connect you with the right insurance plan that meets your needs and budget. We also offer individual, family  , group health, medicare along with dental and vision plans.
+                                </article>
+                      
                             </div>
                         </div>
                         <!-- END TEXT BLOCK -->
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-6 order-first order-md-2">
                             <div class="img-block right-column wow fadeInLeft">
-                                <img class="img-fluid" src="https://images.unsplash.com/photo-1553276738-5a611037a82c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="content-image" />
+                                <img class="img-fluid" src="/assets/images/bilha.jpeg" alt="content-image" />
                             </div>
                         </div>
                     </div>
