@@ -86,7 +86,7 @@
             <div class="col founder-description">
                 <div class="">
                     <h6 class="s-20 color--black w-700">Bilha Wachira</h6>
-                    <p class="color--grey">Founder and CEO</p>
+                    <p class="color--grey">Life & Health Insurance Advisor</p>
                     <article>
                     Bilha Wachira is a passionate insurance advisor vastly experienced in the life and health insurance industry.  She has hands on experience and a business acumen spanning well over 15+ years. 
                     Her passion is to see all  families covered for death, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
