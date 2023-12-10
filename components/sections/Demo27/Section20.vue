@@ -83,8 +83,8 @@
             <div class="col founder-img">
                 <img class="img-fluid" src="/assets/images/bilha.jpeg" alt="Bilha Wachira" />
             </div>
-            <div class="col ">
-                <div class="founder-description">
+            <div class="col founder-description">
+                <div class="">
                     <h6 class="s-20 color--black w-700">Bilha Wachira</h6>
                     <p class="color--grey">Founder and CEO</p>
                     <article>
