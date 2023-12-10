@@ -1,6 +1,26 @@
 <template>
     <section id="hero-27" class="gr--whitesmoke hero-section">
         <div class="hero-overlay bg--fixed">
+          
+          
+ <div class="col text-center brands-carousel-6">
+                    <Swiper
+                        :modules="[SwiperAutoplay, SwiperEffectCreative]"
+                        :slides-per-view="6"
+                        :loop="true"
+                        :autoplay="{
+                            delay: 8000,
+                            disableOnInteraction: true
+                        }"
+                    >
+                        <SwiperSlide v-for="image in images" :key="image"
+                            ><div class="brand-logo"><img class="img-fluid" src="https://plus.unsplash.com/premium_photo-1664301862835-d500277d4bcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9zcGl0YWwlMjBiZWR8ZW58MHx8MHx8fDA%3D" alt="brand-logo" /></div
+                        ></SwiperSlide>
+                    
+                    </Swiper>
+                </div>
+            <!-- End container -->
+        </div>
             <div class="container text-center">
                 <!-- HERO TEXT -->
                 <div class="row justify-content-center">
@@ -21,25 +41,50 @@
                                 </article>
                             <!-- Buttons -->
                           
-                            <!-- Advantages List -->
-                            <ul class="advantages ico-15 mt-25 clearfix d-none">
-                                <li><p>No credit card required</p></li>
-                                <li class="advantages-links-divider">
-                                    <p><span class="flaticon-minus"></span></p>
-                                </li>
-                                <li><p>Cancel at anytime</p></li>
-                                <li class="advantages-links-divider">
-                                    <p><span class="flaticon-minus"></span></p>
-                                </li>
-                                <li class="d-none"><p>Free 14 days trial</p></li>
-                            </ul>
+                       
                         </div>
                     </div>
                 </div>
                 <!-- END HERO TEXT -->
             </div>
-            <!-- End container -->
-        </div>
+
         <!-- End hero-overlay -->
     </section>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      images: [
+        "/assets/images/brand-1.png",
+        "/assets/images/brand-2.png",
+        "/assets/images/brand-3.png",
+        "/assets/images/brand-4.png",
+        "/assets/images/brand-5.png",
+        "/assets/images/brand-6.png",
+        "/assets/images/brand-7.png",
+        "/assets/images/brand-8.png",
+        "/assets/images/brand-9.png"
+      ],
+      swiperOption: {
+        slidesPerView: 6,
+        spaceBetween: 30,
+        loop: true,
+        autoplay: {
+          delay: 8000,
+          disableOnInteraction: true
+        },
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev"
+        }
+      }
+    };
+  }
+}
+</script>

@@ -3,21 +3,21 @@
         <div class="wsmainwp clearfix">
             <!-- HEADER BLACK LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-black"><img src="/assets/images/254Insurance.png" alt="254Insurance" />
-                </NuxtLink> 
-                <!-- <NuxtLink to="/" class="logo-black"><h4 class="w-700 mt-15"> 254 Insurance</h4></NuxtLink> -->
+                <!-- <NuxtLink to="/" class="logo-black"><img src="/assets/images/254Insurance.png" alt="254Insurance" />
+                </NuxtLink>  -->
+                <NuxtLink to="/" class="logo-black"><h4 class="w-700 mt-15"> 254 Insurance</h4></NuxtLink>
             </div>
             <!-- HEADER WHITE LOGO -->
             <div class="desktoplogo">
                 <!-- <NuxtLink to="/" class="logo-white"><img src="/assets/images/254Insurance.png" alt="254Insurance" />
                 </NuxtLink> -->
-                <NuxtLink to="/" class="logo-white"><h3 class="w-700 mt-15"> 254Insurance</h3></NuxtLink>
+                <NuxtLink to="/" class="logo-white"><h3 class="w-700 mt-15"> 254 Insurance</h3></NuxtLink>
             </div>
             <!-- MAIN MENU -->
             <nav class="wsmenu clearfix">
                 <ul class="wsmenu-list nav-theme">
                     <!-- DROPDOWN SUB MENU -->
-                    <li aria-haspopup="true" class="mg_link " :class="{ open: isOpen[0] }">
+                    <li aria-haspopup="true" class="mg_link d-none " :class="{ open: isOpen[0] }">
                         <span class="wsmenu-click 123" @click="toggle(0)"><i class="wsmenu-arrow"></i></span>
                         <NuxtLink to="#" class="h-link">Home <span class="wsarrow"></span></NuxtLink>
                         <div class="wsmegamenu w-75 clearfix">
@@ -232,7 +232,9 @@
                         <NuxtLink to="/faqs" class="h-link">FAQs</NuxtLink>
                     </li>
                     <li class="nl-simple" aria-haspopup="true">
-                        <NuxtLink to="/contacts" class="h-link">Contact</NuxtLink>
+                        <!-- <NuxtLink to="/contacts" class="h-link">Join our business</NuxtLink> -->
+                        <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="https://agent.familyfirstlife.com/bilhawachira2238/" target="_blank">Join our business</a>
+                        
                     </li>
                     <!-- SIGN IN LINK -->
                     <li class="nl-simple reg-fst-link mobile-last-link d-none" aria-haspopup="true">

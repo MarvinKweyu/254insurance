@@ -2,7 +2,7 @@
     <footer id="footer-3" class="pt-100 footer ft-3-ntr">
         <div class="container">
             <!-- FOOTER CONTENT -->
-            <div class="row">
+            <div class="row d-none">
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
                     <div class="footer-info">
@@ -123,11 +123,11 @@
                     <!-- FOOTER COPYRIGHT -->
                     <div class="col">
                         <div class="footer-copyright">
-                            <p class="p-sm">&copy; 2023 254Insurance. <span>All Rights Reserved</span></p>
+                            <p class="p-sm">&copy; {{currentYear}}  <span class="ml-20">  254 Insurance. <span>All Rights Reserved</span></span></p>
                         </div>
                     </div>
                     <!-- FOOTER SOCIALS -->
-                    <div class="col">
+                    <div class="col d-none">
                         <ul class="bottom-footer-socials ico-20 text-end">
                             <li>
                                 <a href="#"><span class="flaticon-facebook"></span></a>
@@ -150,4 +150,16 @@
     </div>
     <!-- End container -->
     <FooterGoToTop />
-</footer></template>
+</footer>
+</template>
+
+<script>
+export default {
+    computed:{
+        // return current year
+        currentYear(){
+            return new Date().getFullYear();
+        }
+    }
+}
+</script>

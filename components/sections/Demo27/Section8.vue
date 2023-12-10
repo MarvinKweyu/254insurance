@@ -18,7 +18,7 @@
             
 
              <div class=" row flex justify-center h-175">
-           <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"  style="width: 80% !important"/>
+           <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"  style="margin-left: 20% !important"/>
                             </div>
             <!-- END BRANDS CAROUSEL -->
         </div>

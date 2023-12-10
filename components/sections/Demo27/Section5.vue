@@ -20,8 +20,15 @@
                     <div class="col">
                         <div class="fbox-7 fb-1 r-12 wow fadeInUp">
                             <!-- Icon -->
-                           <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://images.unsplash.com/photo-1631217871099-88310a909a32?q=80&w=1963&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
+                           <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-analytics"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
                             </div>
                             <!-- End Icon -->
                             <!-- Text -->
@@ -38,8 +45,15 @@
                     <div class="col">
                         <div class="fbox-7 fb-2 r-12 wow fadeInUp">
                             <!-- Icon -->
-                        <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://plus.unsplash.com/premium_photo-1664302397663-e4478130d0f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWZyaWNhbiUyMG9uJTIwd2hlZWxjaGFpcnxlbnwwfHwwfHx8MA%3D%3D" alt="feature-image" />
+                          <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-analytics"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
                             </div>
                             <!-- End Icon -->
                             <!-- Text -->
@@ -58,8 +72,15 @@
                     <div class="col">
                         <div class="fbox-7 fb-3 r-12 wow fadeInUp">
                             <!-- Icon -->
-                          <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
+                           <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-layers-1"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
                             </div>
                             <!-- End Icon -->
                             <!-- Text -->
@@ -75,8 +96,15 @@
                            <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                             <!-- Icon -->
-                           <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://plus.unsplash.com/premium_photo-1664301862835-d500277d4bcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9zcGl0YWwlMjBiZWR8ZW58MHx8MHx8fDA%3D" alt="feature-image" />
+                              <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-click-1"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
                             </div>
                             <!-- End Icon -->
                             <!-- Text -->
@@ -91,8 +119,15 @@
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                             <!-- Icon -->
-                              <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="https://images.unsplash.com/photo-1528752477378-485b46bedcde?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="feature-image" />
+                               <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-prioritize"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
                             </div>
                             <!-- End Icon -->
                             <!-- Text -->
@@ -113,3 +148,11 @@
         <!-- End container -->
     </section>
 </template>
+
+
+<style>
+.fbox-img img {
+  width: 200px;
+  max-width: inherit;
+  margin-bottom: 2%;
+}</style>

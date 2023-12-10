@@ -1,5 +1,5 @@
 <template>
-    <div id="rating-1" class="pt-70 rating-section">
+    <div id="rating-1" class="pt-70 rating-section d-none">
         <div class="container">
             <!-- RATING TITLE -->
             <div class="row justify-content-center">
@@ -76,34 +76,45 @@
     <!-- END RATING-1 -->
     <!-- BANNER-3
 			============================================= -->
-    <section id="banner-3" class="pt-100 banner-section">
-        <div class="container">
-            <!-- BANNER-3 WRAPPER -->
-            <div class="banner-3-wrapper bg--05 bg--scroll r-16">
-                <div class="banner-overlay">
-                    <div class="row">
-                        <!-- BANNER-3 TEXT -->
-                        <div class="col">
-                            <div class="banner-3-txt color--white">
-                                <!-- Title -->
-                                <h2 class="s-48 w-700 ">Starting with 254Insurance is easy and fast</h2>
-                                <!-- Text -->
-                                <p class="p-xl d-none">It only takes a few clicks to get started</p>
-                                <!-- Button -->
-                                <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="mailto:bilha@254insurance.com">Get started</a>
-                                <!-- Button Text -->
-                                <p class="p-sm btn-txt ico-15 d-none"><span class="flaticon-check"></span> Free for 14 days, no
-                                    credit card required.</p>
-                            </div>
-                        </div>
-                        <!-- END BANNER-3 TEXT -->
-                    </div>
-                    <!-- End row -->
-                </div>
-                <!-- End banner overlay -->
+
+
+    <div class=container>
+        <div class="row row-cols-1 row-cols-md-2">
+            <div class="col founder-img">
+                <img class="img-fluid" src="/assets/images/bilha.jpeg" alt="Bilha Wachira" />
             </div>
-            <!-- END BANNER-3 WRAPPER -->
+            <div class="col ">
+                <div class="fonder-description">
+                    <h6 class="s-20 color--black w-700">Bilha Wachira</h6>
+                    <p class="color--grey">Founder and CEO</p>
+                    <article>
+                    Bilha Wachira is a passionate insurance advisor vastly experienced in the life and health insurance industry.  She has hands on experience and a business acumen spanning well over 15+ years. 
+                    Her passion is to see all  families covered for death, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
+                </article>
+
+                <div></div>
+            </div>
+            </div>
         </div>
-        <!-- End container -->
-    </section>
+    </div>
+                    
 </template>
+
+<style>
+.img-fluid{
+    width: 60%;
+    height: 80%;
+    /*  make the image fit within the size */
+    object-fit: contain;
+}
+
+.founder-img, .founder-description{
+ /* center image within the column  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.founder-description{
+    margin-top: 20px;
+}
+</style>
