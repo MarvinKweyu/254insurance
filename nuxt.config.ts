@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     app: {
         head: {
             meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
-            title: "254InsuranceServices - Health and Death insurance",
+            title: "254Insurance Services - Health and Life insurance",
             script: []
         }
     },
