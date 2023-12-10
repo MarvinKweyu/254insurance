@@ -15,9 +15,8 @@
                     <SlidersBrandLogos />
                 </div>
             </div> -->
-            
 
-             <div class=" row flex justify-center h-175">
+             <div class="row flex justify-center h-175">
            <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"  style="margin-left: 20% !important"/>
                             </div>
             <!-- END BRANDS CAROUSEL -->

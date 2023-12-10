@@ -59,7 +59,7 @@ export default {
       images: [
         "https://res.cloudinary.com/dlxhllkxl/image/upload/v1702224214/client-work/last-will_wmt9jr.jpg",
         "https://res.cloudinary.com/dlxhllkxl/image/upload/v1702224214/client-work/hostpital_svyxnw.jpg",
-        "https://plus.unsplash.com/premium_photo-1664302397663-e4478130d0f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWZyaWNhbiUyMG9uJTIwd2hlZWxjaGFpcnxlbnwwfHwwfHx8MA%3D%3D",
+        "https://res.cloudinary.com/dlxhllkxl/image/upload/v1702224960/client-work/life-insurance_gu2sxe.webp",
 
       ],
       swiperOption: {
