@@ -8,18 +8,19 @@
                         <div class="hero-27-txt wow fadeInUp">
                             <!-- Title -->
                             <!-- 254Insurance: Safeguarding Lives, Ensuring Peace – Your Trusted Partner in Health and Death Insurance. -->
-                            <h2 class="s-60 w-700">Your Trusted Partner in Health and Death Insurance.</h2>
+                            <h2 class="s-50 w-700">
+                                Welcome to 254 Insurance
+                            </h2>
                             <!-- Text -->
-                            <p class="s-20">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida and aliquet tortor aliquet egestas magna</p>
+                            <p class="s-20">
+                                Demistifying Life and Health Insurance.
+                            </p>
+
+                             <article class="mt-25">
+                                    We will help you simplify your life and health plan choices and connect you with the right insurance plan that meets your needs and budget. We also offer individual, family  , group health, medicare along with dental and vision plans.
+                                </article>
                             <!-- Buttons -->
-                            <div class="btns-group d-flex justify-content-center">
-                                <a href="#banner-3" class="btn r-04 btn--theme hover--theme">Get started</a>
-                                <ElementsVideoModal :link="'https://www.youtube.com/embed/DBTmNm8D-84'">
-                                    <template v-slot:button>
-                                        <span class="video-popup2 btn r-04 btn--theme hover--tra-black ico-20 ico-right">See how it works</span>
-                                    </template>
-                                </ElementsVideoModal>
-                            </div>
+                          
                             <!-- Advantages List -->
                             <ul class="advantages ico-15 mt-25 clearfix d-none">
                                 <li><p>No credit card required</p></li>

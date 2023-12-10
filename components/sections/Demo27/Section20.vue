@@ -90,7 +90,7 @@
                                 <!-- Text -->
                                 <p class="p-xl d-none">It only takes a few clicks to get started</p>
                                 <!-- Button -->
-                                <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="mailto:bilha@254insurance.com">Get srarted</a>
+                                <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="mailto:bilha@254insurance.com">Get started</a>
                                 <!-- Button Text -->
                                 <p class="p-sm btn-txt ico-15 d-none"><span class="flaticon-check"></span> Free for 14 days, no
                                     credit card required.</p>

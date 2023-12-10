@@ -5,16 +5,21 @@
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-9">
                     <div class="brands-title mb-50">
-                        <h5 class="s-18">254Insurance is loved and trusted by thousands:</h5>
+                        <h5 class="s-50">Our partners</h5>
                     </div>
                 </div>
             </div>
             <!-- BRANDS CAROUSEL -->
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col text-center">
                     <SlidersBrandLogos />
                 </div>
-            </div>
+            </div> -->
+            
+
+             <div class=" row flex justify-center h-175">
+           <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"  style="width: 80% !important"/>
+                            </div>
             <!-- END BRANDS CAROUSEL -->
         </div>
         <!-- End container -->
