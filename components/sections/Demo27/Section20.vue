@@ -115,6 +115,6 @@
     align-items: center;
 }
 .founder-description{
-    margin-top: 20px;
+    margin-top: 20%;
 }
 </style>
