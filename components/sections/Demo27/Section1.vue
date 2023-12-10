@@ -6,10 +6,10 @@
  <div class="col text-center brands-carousel-6">
                     <Swiper
                         :modules="[SwiperAutoplay, SwiperEffectCreative]"
-                        :slides-per-view="6"
+                        :slides-per-view="1"
                         :loop="true"
                         :autoplay="{
-                            delay: 8000,
+                            delay: 4000,
                             disableOnInteraction: true
                         }"
                     >
