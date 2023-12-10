@@ -14,7 +14,7 @@
                         }"
                     >
                         <SwiperSlide v-for="image in images" :key="image"
-                            ><div class="brand-logo"><img class="img-fluid" src="https://plus.unsplash.com/premium_photo-1664301862835-d500277d4bcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9zcGl0YWwlMjBiZWR8ZW58MHx8MHx8fDA%3D" alt="brand-logo" /></div
+                            ><div class="brand-logo"><img class="img-fluid" :src="image" alt="brand-logo" /></div
                         ></SwiperSlide>
                     
                     </Swiper>
@@ -57,15 +57,10 @@ export default {
   data() {
     return {
       images: [
-        "/assets/images/brand-1.png",
-        "/assets/images/brand-2.png",
-        "/assets/images/brand-3.png",
-        "/assets/images/brand-4.png",
-        "/assets/images/brand-5.png",
-        "/assets/images/brand-6.png",
-        "/assets/images/brand-7.png",
-        "/assets/images/brand-8.png",
-        "/assets/images/brand-9.png"
+        "https://plus.unsplash.com/premium_photo-1664301862835-d500277d4bcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9zcGl0YWwlMjBiZWR8ZW58MHx8MHx8fDA%3D",
+        "https://plus.unsplash.com/premium_photo-1664302397663-e4478130d0f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWZyaWNhbiUyMG9uJTIwd2hlZWxjaGFpcnxlbnwwfHwwfHx8MA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1664301862835-d500277d4bcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9zcGl0YWwlMjBiZWR8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1528752477378-485b46bedcde?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       swiperOption: {
         slidesPerView: 6,
