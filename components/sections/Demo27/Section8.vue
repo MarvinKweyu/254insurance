@@ -15,10 +15,9 @@
                     <SlidersBrandLogos />
                 </div>
             </div> -->
-            
 
-             <div class=" row flex justify-center h-175">
-           <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"  style="margin-left: 20% !important"/>
+             <div class="row flex justify-center h-175">
+           <img class="img-fluid" src="/assets/images/partners.jpg" alt="feature-image"/>
                             </div>
             <!-- END BRANDS CAROUSEL -->
         </div>
@@ -27,8 +26,10 @@
     <hr class="divider" />
 </template>
 
+
 <style scoped>
-.img-flud{
-   margin-left: 20% !important;
+.img-fluid{
+    margin-left: 20%;
+    max-width: 80%;
 }
 </style>
