@@ -64,6 +64,7 @@
                                    Compensation for loss of income due to a qualifying terminal, chronic or critical illness or an injury that incapacitates you.
                              
                                 </p>
+                                <br/>
                             </div>
                         </div>
                     </div>
