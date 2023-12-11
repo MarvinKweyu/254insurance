@@ -83,16 +83,46 @@
             <div class="col founder-img">
                 <img class="img-fluid" src="/assets/images/bilha.jpeg" alt="Bilha Wachira" />
             </div>
-            <div class="col founder-description">
+            <div class="col founder-description" id="contact">
                 <div class="">
                     <h6 class="s-20 color--black w-700">Bilha Wachira</h6>
                     <p class="color--grey">Life & Health Insurance Advisor</p>
                     <article>
                     Bilha Wachira is a passionate insurance advisor vastly experienced in the life and health insurance industry.  She has hands on experience and a business acumen spanning well over 15+ years. 
-                    Her passion is to see all  families covered for death, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
+                    Her passion is to see all  families covered for Life, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
                 </article>
 
-                <div></div>
+                <div class="contact-info mt-40">
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="contact-img" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-landline-number-for-the-services-in-hotel-room-hotel-shadow-tal-revivo.png" alt="external-landline-number-for-the-services-in-hotel-room-hotel-shadow-tal-revivo"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--black" href="tel:2532204685">2532204685</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="contact-img" src="https://img.icons8.com/ultraviolet/40/phone.png" alt="phone"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--black" href="tel:8179252238">8179252238</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="contact-img" src="https://img.icons8.com/ultraviolet/40/000000/secured-letter--v2.png"  alt="secured-letter--v2"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--black" href="mailto:bilha@254insuranceservices.com">bilha@254insuranceservices.com</a>
+
+                            <!-- Email: Bilha@254insuranceservices.com
+Cell:8179252238
+Office:2532204685 -->
+                        </div>
+                    </div>
+                   
+                </div>
             </div>
             </div>
         </div>
@@ -117,4 +147,21 @@
 /* .founder-description{
     margin-top: 20%;
 } */
+
+.contact-img{
+    width: 60%;
+    height: 60%;
+    /*  make the image fit within the size */
+    object-fit: contain;
+}
+
+a{
+/* mark links as blue */
+    color: #007bff;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #f5a623;
+}
 </style>

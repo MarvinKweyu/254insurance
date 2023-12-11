@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsDemo27Section1 />
+        <SectionsDemo1Section1 />
         <SectionsDemo27Section2 class="d-none" />
         <SectionsDemo27Section3 class="d-none"/>
         <SectionsDemo27Section4 class="d-none" />
@@ -26,7 +26,7 @@
 <script setup>
 useHead({
     bodyAttrs: {
-        class: "navbar-dark scheme-magenta"
+        class: "navbar-light scheme-crocus theme--dark"
     },
 })
 </script>
