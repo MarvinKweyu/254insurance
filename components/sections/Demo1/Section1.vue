@@ -11,7 +11,7 @@
                         <!-- Text -->
                         <p class="p-xl">We help you simplify your life and health plan choices and connect you with the right insurance plan that meets your needs and budget. We also offer individual, family  , group health, medicare along with dental and vision plans.</p>
                         <!-- Button -->
-                        <a href="#conta" class="btn r-04 btn--theme hover--tra-white">Get started</a>
+                        <a href="#contact" class="btn r-04 btn--theme hover--tra-white">Get started</a>
                         
                     </div>
                 </div>
