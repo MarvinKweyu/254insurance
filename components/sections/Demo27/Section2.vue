@@ -12,7 +12,7 @@
                              
                                 <!-- <div>
                                     Bilha Wachira is a passionate insurance advisor vastly experienced in the life and health insurance industry.  She has hands on experience and a business acumen spanning well over 15+ years. 
-                                    Her passion is to see all  families covered for death, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
+                                    Her passion is to see all  families covered for Life, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
 
                                 </div> -->
                                 <!-- add a break here -->

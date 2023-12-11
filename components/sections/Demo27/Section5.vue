@@ -35,7 +35,7 @@
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Life Insurance</h6>
                                 <p class="p-sm">
-                                    Income replacement in the event of death of a family member to cover funeral expenses, mortgage, college education, and other financial obligations.
+                                    Income replacement in the event of Life of a family member to cover funeral expenses, mortgage, college education, and other financial obligations.
                                 </p>
                             </div>
                         </div>

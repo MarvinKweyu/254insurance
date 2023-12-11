@@ -27,7 +27,7 @@
                     <div class="col-md-10 col-lg-9">
                         <div class="hero-27-txt wow fadeInUp">
                             <!-- Title -->
-                            <!-- 254Insurance: Safeguarding Lives, Ensuring Peace – Your Trusted Partner in Health and Death Insurance. -->
+                            <!-- 254Insurance: Safeguarding Lives, Ensuring Peace – Your Trusted Partner in Health and Life Insurance. -->
                             <h2 class="s-50 w-700">
                                 Welcome to 254 Insurance
                             </h2>
@@ -37,7 +37,7 @@
                             </p>
 
                              <article class="mt-25">
-                                    We will help you simplify your life and health plan choices and connect you with the right insurance plan that meets your needs and budget. We also offer individual, family  , group health, medicare along with dental and vision plans.
+                                    We simplify your life and health choices by connecting you with the perfect insurance plan tailored to your needs and budget. Our options include individual, family, group health, Medicare, dental, and vision plans.
                                 </article>
                             <!-- Buttons -->
                           
