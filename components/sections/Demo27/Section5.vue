@@ -15,7 +15,7 @@
             <!-- ToDo: change to vertical image -->
             <!-- FEATURES-7 WRAPPER -->
             <div class="fbox-wrapper text-center">
-                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
                     <!-- FEATURE BOX #1 -->
                     <div class="col">
                         <div class="fbox-7 fb-1 r-12 wow fadeInUp">
@@ -93,7 +93,13 @@
                             </div>
                         </div>
                     </div>
-                           <div class="col">
+                           
+                    <!-- END FEATURE BOX #4 -->
+                </div>
+                <!-- End row -->
+
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-20">
+                    <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                             <!-- Icon -->
                               <div class="fbox-ico ico-50">
@@ -139,9 +145,28 @@
                             </div>
                         </div>
                     </div>
-                    <!-- END FEATURE BOX #4 -->
+                    <div class="col">
+                        <div class="fbox-7 fb-4 r-12 wow fadeInUp">
+                            <!-- Icon -->
+                              <div class="fbox-ico ico-50">
+                                <div class="shape-ico color--theme">
+                                    <!-- Vector Icon -->
+                                    <span class="flaticon-click-1"></span>
+                                    <!-- Shape -->
+                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                    </svg>
+                                </div>
+                            </div>
+                            <!-- End Icon -->
+                            <!-- Text -->
+                            <div class="fbox-txt">
+                                <h6 class="s-20 w-700">Children policies</h6>
+                                <p class="p-sm">Putting away money for your children as soon as they are born and build generational wealth for years. Help them pay for college, buy first home or fund their first business.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <!-- End row -->
             </div>
             <!-- END FEATURES-7 WRAPPER -->
         </div>

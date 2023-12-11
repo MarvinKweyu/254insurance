@@ -26,3 +26,9 @@
     </div>
     <hr class="divider" />
 </template>
+
+<style scoped>
+.img-flud{
+   margin-left: 20% !important;
+}
+</style>

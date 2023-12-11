@@ -231,8 +231,14 @@
                     <li class="nl-simple d-none" aria-haspopup="true">
                         <NuxtLink to="/faqs" class="h-link">FAQs</NuxtLink>
                     </li>
-                    <li class="nl-simple" aria-haspopup="true">
+                
+                     <li class="nl-simple" aria-haspopup="true">
                         <!-- <NuxtLink to="/contacts" class="h-link">Join our business</NuxtLink> -->
+                        <a href="#contact" class="h-link"> Contact </a>
+                    
+                    </li>
+                        <li class="nl-simple" aria-haspopup="true">
+                        
                         <a class="btn r-04 btn--theme hover--tra-white p-xl mt-50" href="https://agent.familyfirstlife.com/bilhawachira2238/" target="_blank">Join our business</a>
                         
                     </li>
