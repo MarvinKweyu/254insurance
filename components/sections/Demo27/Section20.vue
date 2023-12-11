@@ -92,7 +92,37 @@
                     Her passion is to see all  families covered for Life, illness and injury. Keen on retirement planning education and the importance of growing and protecting generational wealth. 
                 </article>
 
-                <div></div>
+                <div class="contact-info mt-40">
+                    <div class="row">
+                        <div class="col-2">
+                            <img width="50" height="50" src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/external-landline-smart-home-flatarticons-blue-flatarticons.png" alt="external-landline-smart-home-flatarticons-blue-flatarticons"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--blue" href="tel:2532204685">2532204685</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="contact-img" src="https://img.icons8.com/ultraviolet/40/phone.png" alt="phone"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--blue" href="tel:8179252238">8179252238</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="contact-img" src="https://img.icons8.com/ios/50/000000/mail.png" alt="mail"/>
+                        </div>
+                        <div class="col-10">
+                            <a class="color--black" href="mailto:bilha@254insuranceservices.com">bilha@254insuranceservices.com</a>
+
+                            <!-- Email: Bilha@254insuranceservices.com
+Cell:8179252238
+Office:2532204685 -->
+                        </div>
+                    </div>
+                   
+                </div>
             </div>
             </div>
         </div>
@@ -117,4 +147,21 @@
 /* .founder-description{
     margin-top: 20%;
 } */
+
+.contact-img{
+    width: 60%;
+    height: 60%;
+    /*  make the image fit within the size */
+    object-fit: contain;
+}
+
+a{
+/* mark links as blue */
+    color: #007bff;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #f5a623;
+}
 </style>
