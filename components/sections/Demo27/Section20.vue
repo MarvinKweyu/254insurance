@@ -131,7 +131,7 @@ Office:2532204685 -->
                     
 </template>
 
-<style scoped>
+<style>
 .img-fluid{
     width: 60%;
     height: 80%;

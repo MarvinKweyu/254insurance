@@ -20,7 +20,7 @@
                     <div class="col">
                         <div class="fbox-7 fb-1 r-12 wow fadeInUp">
                              <!-- Text -->
-                            <div class="fbox-txt">
+                            <div class="fbox-txt mb-3">
                                 <h6 class="s-20 w-700">Life Insurance</h6>
                                 <p class="p-sm">
                                     Income replacement in the event of Life of a family member to cover funeral expenses, mortgage, college education, and other financial obligations.
@@ -58,7 +58,7 @@
                     <div class="col">
                         <div class="fbox-7 fb-3 r-12 wow fadeInUp">
                              <!-- Text -->
-                            <div class="fbox-txt">
+                            <div class="fbox-txt mb-3">
                                 <h6 class="s-20 w-700">Retirement planning</h6>
                                 <p class="p-sm">
                                     We help you plan for your retirement with products that grow tax free , are protected from market losses and provide long-term care.
@@ -96,7 +96,7 @@
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                                    <!-- Text -->
-                            <div class="fbox-txt">
+                            <div class="fbox-txt mb-4">
                                 <h6 class="s-20 w-700">Estate planning referrals (wills and trusts)</h6>
                                 <p class="p-sm">
                                     We partner with trusted estate planning attorneys to help you write your will/trust to protect your assets.
@@ -132,7 +132,7 @@
 </template>
 
 
-<style>
+<style scoped>
 .fbox-img img {
   width: 200px;
   max-width: inherit;
@@ -144,4 +144,9 @@
     max-width: inherit;
     margin-bottom: 2%;
 } */
+
+.img-fluid{
+    width: 100% !important;
+    height: 80%;
+}
 </style>
