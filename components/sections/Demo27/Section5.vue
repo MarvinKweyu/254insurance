@@ -19,10 +19,7 @@
                     <!-- FEATURE BOX #1 -->
                     <div class="col">
                         <div class="fbox-7 fb-1 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                           <img width="64" height="64" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-insurance-insurance-itim2101-blue-itim2101.png" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
-                            <!-- End Icon -->
-                            <!-- Text -->
+                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Life Insurance</h6>
                                 <p class="p-sm">
@@ -30,53 +27,37 @@
                                 </p>
                                 <br/>
                             </div>
+                            <!-- Icon -->
+                           <img class="img-fluid" src="https://res.cloudinary.com/dlxhllkxl/image/upload/v1702224960/client-work/life-insurance_gu2sxe.webp" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+                            <!-- End Icon -->
+                           
                         </div>
                     </div>
                     <!-- END FEATURE BOX #1 -->
                     <!-- FEATURE BOX #2 -->
                     <div class="col">
                         <div class="fbox-7 fb-2 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                          <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-analytics"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
-                            <div class="fbox-txt">
+                              <!-- Text -->
+                            <div class="fbox-txt mb-3">
                                 <h6 class="s-20 w-700">Critical illness/injury</h6>
                                 <p class="p-sm">
                         
                                    Compensation for loss of income due to a qualifying terminal, chronic or critical illness or an injury that incapacitates you.
                              
                                 </p>
-                                <br/>
+                                <!-- <br/> -->
                             </div>
+                            <!-- Icon -->
+                         <img class="img-fluid" src="https://images.unsplash.com/photo-1508847154043-be5407fcaa5a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29uJTIwaW4lMjB3aGVlbGNoYWlyfGVufDB8fDB8fHww" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+                            <!-- End Icon -->
+                          
                         </div>
                     </div>
                     <!-- END FEATURE BOX #2 -->
                     <!-- FEATURE BOX #3 -->
                     <div class="col">
                         <div class="fbox-7 fb-3 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                           <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-layers-1"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
+                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Retirement planning</h6>
                                 <p class="p-sm">
@@ -84,6 +65,10 @@
                                     
                                 </p>
                             </div>
+                            <!-- Icon -->
+                           <img class="img-fluid" src="https://images.unsplash.com/photo-1473679408190-0693dd22fe6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+                            <!-- End Icon -->
+                           
                         </div>
                     </div>
                            
@@ -94,43 +79,23 @@
                 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-20">
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                              <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-click-1"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
+                               <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Health Insurance</h6>
                                 <p class="p-sm">254 Insurance can provide you with a wide array of products and services from a variety of respected health insurance and benefits providers.</p>
                                 <br/>
                             </div>
+                            <!-- Icon -->
+                            <img class="img-fluid" src="https://res.cloudinary.com/dlxhllkxl/image/upload/v1702224214/client-work/hostpital_svyxnw.jpg" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+                            <!-- End Icon -->
+                         
                         </div>
                     </div>
                     <!-- END FEATURE BOX #3 -->
                     <!-- FEATURE BOX #4 -->
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                               <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-prioritize"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
+                                   <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Estate planning referrals (wills and trusts)</h6>
                                 <p class="p-sm">
@@ -138,28 +103,24 @@
                                 </p>
                                 <br/>
                             </div>
+                            <!-- Icon -->
+                            <img class="img-fluid last-will" src="/assets/images/last-will.jpeg" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+                            <!-- End Icon -->
+                     
                         </div>
                     </div>
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
-                            <!-- Icon -->
-                                 <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-prioritize"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
-
-                            <!-- End Icon -->
-                            <!-- Text -->
+                              <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Children policies</h6>
                                 <p class="p-sm">Our products help you start saving for your children as soon as they are born to build generational wealth. This can help them pay for college, buy the first home or fund the first business</p>
                             </div>
+                            <!-- Icon -->
+                           <img class="img-fluid" src="https://images.unsplash.com/photo-1533222481259-ce20eda1e20b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
+
+                            <!-- End Icon -->
+                          
                         </div>
                     </div>
                 </div>
@@ -176,4 +137,11 @@
   width: 200px;
   max-width: inherit;
   margin-bottom: 2%;
-}</style>
+}
+
+/* .last-will{
+    width: 200px;
+    max-width: inherit;
+    margin-bottom: 2%;
+} */
+</style>
