@@ -7,19 +7,19 @@
                     <div class="col-md-6">
                         <div class="hero-6-txt wow fadeInRight">
                             <!-- Title -->
-                            <h2 class="s-54 w-700">Start with a plan and finish with results</h2>
+                            <h2 class="s-54 w-700">Welcome to 254 Insurance</h2>
                             <!-- Text -->
-                            <p class="p-lg">Sodales tempor sapien quaerat ipsum congue and laoreet turpis neque auctor turpis vitaer</p>
+                            <p class="p-lg">We help you simplify your life and health plan choices and connect you with the right insurance plan that meets your needs and budget.</p>
                             <!-- Button -->
-                            <a href="#banner-1" class="btn r-04 btn--theme hover--theme">Get started for free</a>
-                            <p class="p-sm btn-txt ico-15"><span class="flaticon-check"></span> No credit card needed, free 14-day trial</p>
+                            <a href="#contact" class="btn r-04 btn--theme hover--theme">Get started</a>
+                            
                         </div>
                     </div>
                     <!-- END HERO TEXT -->
                     <!-- HERO IMAGE -->
                     <div class="col-md-6">
                         <div class="hero-6-img wow fadeInLeft">
-                            <img class="img-fluid" src="/assets/images/img-08.png" alt="hero-image" />
+                            <img class="img-fluid" src="/assets/images/hero-1-img.png" alt="hero-image" />
                         </div>
                     </div>
                 </div>
