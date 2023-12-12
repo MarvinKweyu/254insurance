@@ -20,16 +20,7 @@
                     <div class="col">
                         <div class="fbox-7 fb-1 r-12 wow fadeInUp">
                             <!-- Icon -->
-                           <div class="fbox-ico ico-50">
-                                <div class="shape-ico color--theme">
-                                    <!-- Vector Icon -->
-                                    <span class="flaticon-analytics"></span>
-                                    <!-- Shape -->
-                                    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                    </svg>
-                                </div>
-                            </div>
+                           <img width="64" height="64" src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-insurance-insurance-itim2101-blue-itim2101.png" alt="external-insurance-insurance-itim2101-blue-itim2101"/>
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
@@ -37,6 +28,7 @@
                                 <p class="p-sm">
                                     Income replacement in the event of Life of a family member to cover funeral expenses, mortgage, college education, and other financial obligations.
                                 </p>
+                                <br/>
                             </div>
                         </div>
                     </div>
@@ -118,6 +110,7 @@
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Health Insurance</h6>
                                 <p class="p-sm">254 Insurance can provide you with a wide array of products and services from a variety of respected health insurance and benefits providers.</p>
+                                <br/>
                             </div>
                         </div>
                     </div>
@@ -143,27 +136,29 @@
                                 <p class="p-sm">
                                     We partner with trusted estate planning attorneys to help you write your will/trust to protect your assets.
                                 </p>
+                                <br/>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                             <!-- Icon -->
-                              <div class="fbox-ico ico-50">
+                                 <div class="fbox-ico ico-50">
                                 <div class="shape-ico color--theme">
                                     <!-- Vector Icon -->
-                                    <span class="flaticon-click-1"></span>
+                                    <span class="flaticon-prioritize"></span>
                                     <!-- Shape -->
                                     <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                     </svg>
                                 </div>
                             </div>
+
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-20 w-700">Children policies</h6>
-                                <p class="p-sm">Putting away money for your children as soon as they are born and build generational wealth for years. Help them pay for college, buy first home or fund their first business.</p>
+                                <p class="p-sm">Our products help you start saving for your children as soon as they are born to build generational wealth. This can help them pay for college, buy the first home or fund the first business</p>
                             </div>
                         </div>
                     </div>
