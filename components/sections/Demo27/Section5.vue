@@ -77,7 +77,7 @@
                 <!-- End row -->
 
                 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mt-20">
-                    <div class="col">
+                    <div class="col mb-4">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                                <!-- Text -->
                             <div class="fbox-txt">
@@ -93,7 +93,7 @@
                     </div>
                     <!-- END FEATURE BOX #3 -->
                     <!-- FEATURE BOX #4 -->
-                    <div class="col">
+                    <div class="col mb-4">
                         <div class="fbox-7 fb-4 r-12 wow fadeInUp">
                                    <!-- Text -->
                             <div class="fbox-txt mb-4">
