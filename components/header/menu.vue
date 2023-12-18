@@ -3,15 +3,15 @@
         <div class="wsmainwp clearfix">
             <!-- HEADER BLACK LOGO -->
             <div class="desktoplogo">
-                <!-- <NuxtLink to="/" class="logo-black"><img src="/assets/images/254Insurance.png" alt="254Insurance" />
-                </NuxtLink>  -->
-                <NuxtLink to="/" class="logo-black"><h4 class="w-700 mt-15"> 254 Insurance</h4></NuxtLink>
+                <NuxtLink to="/" class="logo-black logo"><img src="/assets/images/254NewLogo.png" alt="254Insurance" />
+                </NuxtLink> 
+                <!-- <NuxtLink to="/" class="logo-black"><h4 class="w-700 mt-15"> 254 Insurance</h4></NuxtLink> -->
             </div>
             <!-- HEADER WHITE LOGO -->
             <div class="desktoplogo">
-                <!-- <NuxtLink to="/" class="logo-white"><img src="/assets/images/254Insurance.png" alt="254Insurance" />
-                </NuxtLink> -->
-                <NuxtLink to="/" class="logo-white"><h3 class="w-700 mt-15"> 254 Insurance</h3></NuxtLink>
+                <NuxtLink to="/" class="logo-white logo"><img src="/assets/images/254NewLogo.png" alt="254Insurance" />
+                </NuxtLink>
+                <!-- <NuxtLink to="/" class="logo-white"><h3 class="w-700 mt-15"> 254 Insurance</h3></NuxtLink> -->
             </div>
             <!-- MAIN MENU -->
             <nav class="wsmenu clearfix">
@@ -292,3 +292,9 @@ export default {
     }
 };
 </script>
+
+<style scoped>
+.logo{
+    max-height: 68px !important;
+}
+</style>
